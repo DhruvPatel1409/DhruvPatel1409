@@ -1,57 +1,58 @@
-<h1 align="left">Hey 👋 Everyone !!</h1>
+<br clear="both">
+
+<h4 align="center">I am Patel Dhruv Nishesh, a dedicated and enthusiastic individual with a keen interest in Data Science,<br>Data Analysis, and Machine Learning.</h4>
 
 ###
 
-<p align="left">My name is Dhruv Patel and I'm a student from Ahmedabad Institute Of Technology.</p>
-
-###
-
-<h2 align="left">About me<br><br>I am Dhruv Patel, a B.Tech graduate seeking Data Science roles. With expertise in Python and Tableau, I've completed 2 Machine Learning projects and 2-4 Tableau projects, including disease prediction and COVID analysis. Proficient in Gujarati, English, and Hindi, I possess strong teamwork, leadership, and quick learning skills. Contact me at dhruvpatel3114@gmail.com or 7863040107 for collaboration opportunities.</h2>
-
-###
-
-<p align="left">✨ Solving bugs since 2002<br>📚 I'm currently learning Data Science<br>🎯 Goals : Data Analyst<br>🎲 Fun fact : "Committed to coding with more versions than a software repository – a Git aficionado!"</p>
-
-###
-
-<h2 align="left">Skills known to me  :</h2>
+<img align="right" height="200" src="https://media.licdn.com/dms/image/D4D03AQE_BKRtbALW5Q/profile-displayphoto-shrink_800_800/0/1695276564856?e=1715212800&v=beta&t=nhHEBKg7_MubjtNU6WSN3n_Z49HxKiy5smQepdp3-BI"  />
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
 </div>
+
+###
+
+<div align="left">
+  <a href="dhruvpatel3114@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/dhruv-patel-9a4755252/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhruvPatel1409&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DhruvPatel1409&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="130" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=DhruvPatel1409&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=DhruvPatel1409&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvPatel1409&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/DhruvPatel1409/DhruvPatel1409/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/DhruvPatel1409 /count.svg?"  />
+  <img src="https://profile-counter.glitch.me/DhruvPatel1409/count.svg?"  />
 </div>
 
 ###
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/tags/programmer_animation.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvpatel1409&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvpatel1409" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvpatel1409" alt="dhruvpatel1409" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
- 📫 How to reach me **dhruvpatel3114@gmail.com**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvpatel1409&show_icons=true&locale=en&layout=compact" alt="dhruvpatel1409" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvpatel1409&show_icons=true&locale=en" alt="dhruvpatel1409" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvpatel1409&" alt="dhruvpatel1409" /></p>
