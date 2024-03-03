@@ -47,10 +47,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DhruvPatel1409/DhruvPatel1409/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/DhruvPatel1409/count.svg?"  />
 </div>
