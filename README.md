@@ -1,9 +1,5 @@
 <h1 align="left">Summary</h1>
 
-###
-
-<br clear="both">
-
 <h4 align="left">I am Patel Dhruv Nishesh, a dedicated and enthusiastic individual with a keen interest in Data Science,<br>Data Analysis, and Machine Learning.</h4>
 
 ###
