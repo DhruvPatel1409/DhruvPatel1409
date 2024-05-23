@@ -62,6 +62,10 @@
 </div>
 
 ###
+### 
+✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/DhruvPatel1409/count.svg?"  />
