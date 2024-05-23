@@ -12,6 +12,13 @@
 
 ###
 
+<h2 align="left"> What I Do </h2>
+🏗️ Build robust data pipelines and perform exploratory data analysis <br>
+🤖 Develop and deploy machine learning models to tackle real-world challenges <br>
+📚 Continuously learn and stay updated with the latest trends in technology and data science
+
+###
+
 <h2 align="left">Technical Skills</h2>
 
 ###
