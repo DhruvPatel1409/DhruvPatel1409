@@ -64,7 +64,7 @@
 ###
 
 <h2 align="left">✍️ Random Dev Quote </h2>
-<h3 align="left> You can't improve ⏳ what you can't measure ⚖ </h3>
+<h3 align="left"> You can't improve ⏳ what you can't measure ⚖ </h3>
 
 ###
 
