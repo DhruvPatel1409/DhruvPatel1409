@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since : The dawn of neural networks 🤖<br>📚 I'm currently learning : Advanced machine learning techniques and algorithms 🧠<br>🎯 Goals: Becoming a proficient data scientist and contributing to cutting-edge AI research 🌐<br>🎲 Fun fact: Did you know that the concept of neural networks was inspired by the human brain's structure? 🧠✨</h4>
+<h4 align="left">🎓 Background in Data Science and Machine Learning <br>📚 I'm currently learning : Advanced machine learning techniques and algorithms 🧠 <br>🔍 Fascinated by data-driven decision making <br>🛠️ Proficient in Python, SQL, and various machine learning libraries <br> 🎯 Goals: Becoming a proficient data scientist and contributing to cutting-edge AI research 🌐<br>🎲 Fun fact: Did you know that the concept of neural networks was inspired by the human brain's structure? 🧠✨</h4>
 
 ###
 
