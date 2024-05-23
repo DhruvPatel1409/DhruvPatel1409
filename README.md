@@ -72,7 +72,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/DhruvPatel1409/count.svg?"  />
 </div>
 
