@@ -68,6 +68,10 @@
 
 ###
 
+<h2 align="left">Profile Views</h2>
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/DhruvPatel1409/count.svg?"  />
 </div>
