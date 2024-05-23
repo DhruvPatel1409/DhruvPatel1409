@@ -1,6 +1,6 @@
 <h2 align="left">Summary</h2>
 
-<h4 align="left">I am Patel Dhruv Nishesh, a dedicated and enthusiastic individual with a keen interest in Data Science,<br>Data Analysis, and Machine Learning.</h4>
+<h4 align="left">👋 Hi, I'm Patel Dhruv Nishesh! <br> I am a dedicated and enthusiastic individual with a keen interest in Data Science, Data Analysis, and Machine Learning. My passion lies in uncovering insights from data, building predictive models, and leveraging machine learning to solve complex problems.</h4>
 
 ###
 
