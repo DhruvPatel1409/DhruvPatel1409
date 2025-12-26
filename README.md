@@ -1,6 +1,6 @@
 <h2 align="left">Summary</h2>
 
-<h4 align="left">👋 Hi, I'm Patel Dhruv Nishesh! <br> I am a dedicated and enthusiastic individual with a keen interest in Data Science, Data Analysis, Machine Learning, and Deep Learning. My passion lies in uncovering insights from data, building predictive models, and leveraging advanced machine learning techniques to solve complex problems. I thrive on the challenges that come with data-driven decision-making and am always eager to learn and apply new technologies in the ever-evolving field of data science.</h4>
+<h4 align="left">👋 Hi, I’m Patel Dhruv Nishesh! I am a passionate technologist focused on Data Science, Machine Learning, and Deep Learning, with a strong interest in transforming data into actionable insights and building effective predictive models. I also explore Generative AI, AI Agents, and Agentic AI systems, working with frameworks like LangChain and LangGraph to develop intelligent, autonomous AI applications. Driven by curiosity and continuous learning, I enjoy applying modern AI techniques to solve real-world, data-driven problems.</h4>
 
 ###
 
