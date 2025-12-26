@@ -8,14 +8,16 @@
 
 ###
 
-<h4 align="left">🎓 Background in Data Science and Machine Learning <br>📚 I'm currently learning : Advanced machine learning techniques and algorithms 🧠 <br>🔍 Fascinated by data-driven decision making <br>🛠️ Proficient in Python, SQL, and various machine learning libraries <br> 🎯 Goals: Becoming a proficient data scientist and contributing to cutting-edge AI research 🌐<br>🎲 Fun fact: Did you know that the concept of neural networks was inspired by the human brain's structure? 🧠✨</h4>
+<h4 align="left">🎓 Background in Data Science and Machine Learning, currently exploring advanced machine learning techniques, Generative AI, AI Agents, and Agentic AI systems <br>🧠 Building intelligent, autonomous workflows using LangChain and LangGraph <br>🔍 Fascinated by data-driven decision-making and real-world problem solving <br>🛠️ Proficient in Python, SQL, data analysis & visualization tools (Pandas, NumPy, Matplotlib, Seaborn), machine learning & deep learning libraries (scikit-learn, TensorFlow, PyTorch), and AI development frameworks such as LangChain and LangGraph <br> 🎯 Goal: To become a skilled Data Scientist / AI Engineer and contribute to impactful, cutting-edge AI research and applications<br>🎲 Fun fact: AI agents go beyond prediction—they can think in steps, make decisions, and collaborate with tools to achieve goals 🤖🧠✨</h4>
 
 ###
 
 <h2 align="left"> What I Do </h2>
-🏗️ Build robust data pipelines and perform exploratory data analysis <br>
-🤖 Develop and deploy machine learning models to tackle real-world challenges <br>
-📚 Continuously learn and stay updated with the latest trends in technology and data science
+🏗️ Design and optimize data pipelines, perform exploratory data analysis, and extract actionable insights <br>
+🤖 Build, train, and deploy machine learning and deep learning models for real-world problem solving <br>
+🧠 Develop Generative AI and AI Agent–based systems using frameworks like LangChain and LangGraph <br>
+🔄 Create intelligent, workflow-driven and agentic AI applications that can reason, plan, and interact with tools <br>
+📚 Continuously learn and stay updated with emerging trends in Data Science, Machine Learning, and AI
 
 ###
 
