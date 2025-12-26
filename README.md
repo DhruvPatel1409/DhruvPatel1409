@@ -43,9 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img src="https://skillicons.dev/icons?i=langchain" height="40" alt="langchain logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/langgraph.svg" height="40" alt="langgraph logo" />
 </div>
 
 ###
